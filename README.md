@@ -1,4 +1,5 @@
 # Ireland Healthcare Waiting List Dashboard
+![Ireland Healthcare Waiting List Dashboard](dashboard-preview.png)
 
 ## Project Overview
 
