@@ -25,7 +25,7 @@ The dashboard highlights several important patterns in the healthcare waiting-li
 
 - Adult patients account for the majority of the waiting-list volume.
 - Waiting-list volumes vary over time, with noticeable changes across the period analysed.
--A relatively small number of hospitals account for the highest waiting-list volumes.
+- A relatively small number of hospitals account for the highest waiting-list volumes.
 - Patients waiting 0–6 months represent the largest waiting-time category.
 - Interactive filters allow users to compare waiting-list patterns across different years and hospitals.
 
@@ -33,7 +33,7 @@ The dashboard highlights several important patterns in the healthcare waiting-li
 
 The dashboard includes:
 
--Total Waiting-List Volume KPI
+- Total Waiting-List Volume KPI
 - Adult Patients KPI
 - Child Patients KPI
 - Average Waiting KPI
