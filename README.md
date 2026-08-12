@@ -64,7 +64,7 @@ The dashboard uses year and hospital filters to allow users to explore the data 
 
 ## Project Files
 
-- `project.pbix` — Power BI dashboard file
+- `Ireland_Healthcare_Waiting_List_Dashboard.pbix` — Power BI dashboard file
 - `dashboard-preview.png` — Dashboard preview image
 - `README.md` — Project documentation
 
