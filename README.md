@@ -1,6 +1,6 @@
 # Ireland Healthcare Waiting List Dashboard
 
-![Ireland Healthcare Waiting List Dashboard](dashboard-preview.png)
+![Ireland Healthcare Waiting List Dashboard](Dashboard-Preview.png)
 
 ## Project Overview
 
@@ -65,7 +65,7 @@ The dashboard uses year and hospital filters to allow users to explore the data 
 ## Project Files
 
 - `Ireland_Healthcare_Waiting_List_Dashboard.pbix` — Power BI dashboard file
-- `dashboard-preview.png` — Dashboard preview image
+- `Dashboard-Preview.png` — Dashboard preview image
 - `README.md` — Project documentation
 
 ## Project Outcome
